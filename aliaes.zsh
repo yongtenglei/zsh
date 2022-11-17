@@ -43,3 +43,6 @@ alias sudo='sudo '
 
 # k8s
 alias kc='kubectl'
+
+# uxplay
+alias uxplay='sudo systemctl start avahi-daemon.service && uxplay'
